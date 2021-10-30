@@ -1,3 +1,21 @@
 body {
   background: blanchedalmond;
 }
+
+* {
+  border: 1px solid gold
+}
+
+div {
+  min-width: 50px;
+  min-height: 50px;
+}
+
+div.container {
+  display: block;
+  align-items: center;
+}
+
+div.b {
+  min-height: 100px;
+}
